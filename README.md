@@ -6,6 +6,16 @@ This project provides an in-depth *data analysis of Blinkit grocery orders*, foc
 
 ---
 
+📂 Excel File Availability
+Due to GitHub's 25MB file size limit, I am unable to upload the full Excel file here. However, you can access it using the link below:
+
+[Blinkit Excel File](https://docs.google.com/spreadsheets/d/1-ZSZ9LLzKgUTTegKkyQj3jsYE_Xprkx_/edit?usp=sharing&ouid=114361524747451769615&rtpof=true&sd=true)
+
+🔗 Download Excel File from Google Drive
+Feel free to explore the data and use it for your analysis! 😊🚀
+
+----
+
 ## 🗃 Data Dictionary
 
 The dataset includes the following key columns:
