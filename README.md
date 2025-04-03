@@ -68,7 +68,7 @@ cd Blinkit-Grocery-Analysis
 
 ## 📬 Contact
 
-- 📌 LinkedIn: [Your Name](www.linkedin.com/in/prerna-patil26)
+- 📌 LinkedIn: [Prerna Patil](www.linkedin.com/in/prerna-patil26)
 
 #### If you found this project helpful, consider giving it a ⭐ on GitHub! Your support is greatly appreciated. 🚀✨
 
